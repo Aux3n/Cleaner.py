@@ -1,2 +1,3 @@
 # Cleaner.py
-"temp cleaner"
+Python script that cleans files from windows/temp and %temp% folders
+thats about it.
